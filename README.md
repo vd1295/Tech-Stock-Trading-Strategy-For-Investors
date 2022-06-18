@@ -1,0 +1,2 @@
+# Tech-Stock-Trading-Strategy-For-Investors
+Creating an alternate investment model that institutional investors can use to predict, project and account for seasonality and other factors, alongside SPY index. I aim to project and predict Tech company prices, and the results point us to a viable alternate model. For this cause, I explore and visualize tech stocks, trying to identify Regimes, Patterns, and more. Then backtest, benchmark against SPY, and reach some inevitable conclusions.
